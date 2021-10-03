@@ -1,0 +1,82 @@
+[
+    {
+        "key": "6159fcb9bf5283822bdadbdd",
+        "name": "Computer Science 101",
+        "description": "Introduction to Computer Science for a zero-prior-experience audience. Play with little phrases of code to understand what computers are all about.",
+        "cost": 32,
+        "time": "4–6 hours per week",
+        "picture": "https://images.unsplash.com/photo-1543013309-0d1f4edeb868?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1391&q=80"
+    },
+    {
+        "key": "6159fcb9c0532520c624571a",
+        "name": "Programming for Everybody (Getting Started with Python)",
+        "description": "This course is a introduction to Python Programming. You will learn about variables, conditional execution, repeated execution and how we use functions. The homework is done in a web browser so you can do all of the programming assignments on a phone or public computer.",
+        "cost": 14,
+        "time": "2–4 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "key": "6159fcb9bdb5d996c1cba530",
+        "name": "Introduction to Cloud Development with HTML5, CSS3, and JavaScript",
+        "description": "Learn the key tools and programming languages to bootstrap your career as a Cloud Developer. Get started with web development using HTML5, CSS3, JavaScript and GitHub.",
+        "cost": 32,
+        "time": "2–4 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "key": "6159fcb9444dbeea4bb62790",
+        "name": "Computing in Python II: Control Structures",
+        "description": "Learn about control structures, one of the most powerful parts of programming. This course covers conditionals, loops, functions, and error handling, specifically in Python but with broader applicability to other languages as well.",
+        "cost": 32,
+        "time": "9–10 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "key": "6159fcb9c1ce1c1f9ae11810",
+        "name": "Computing in Python III: Data Structures",
+        "description": "Learn more complex ways of handling data, including files, lists, and dictionaries for building complex programs.",
+        "cost": 26,
+        "time": "9–10 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "key": "6159fcb9e9313efa3fd8ab66",
+        "name": "Object-Oriented Programming",
+        "description": "Learn the principles of programming for building large and extensible systems.",
+        "cost": 23,
+        "time": "6–8 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "key": "6159fcb971d7b5d577397380",
+        "name": "Software Development Fundamentals",
+        "description": "Learn the fundamentals of object-oriented programming in Java, as well as best practices of modern software development.",
+        "cost": 33,
+        "time": "6–8 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "key": "6159fcb9cbb86f4ce6a82a3d",
+        "name": "C Programming: Language Foundations",
+        "description": "Master foundational concepts in the C programming language such as logical statements and arrays.",
+        "cost": 13,
+        "time": "2–4 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "key": "6159fcb9e8f6fc36ce1f7be8",
+        "name": "C Programming: Using Linux Tools and Libraries",
+        "description": "Learn how to use professional tools and libraries to write and build C programs within the Linux operating system. Receive instant feedback on your code right within your browser.",
+        "cost": 23,
+        "time": "4–5 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "key": "6159fcb902d20a5978dd0853",
+        "name": "Scripting with Python",
+        "description": "Explore fundamental programming with hands-on activities that help you build applications using Python.",
+        "cost": 33,
+        "time": "8–10 hours per week",
+        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+    }
+]
