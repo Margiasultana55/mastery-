@@ -1,0 +1,14 @@
+.course-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.text {
+   text-align: justify;
+   line-height: 44px;
+   margin-right: 33em;
+   margin-top: 50px;
+}
+.course-hr{
+    width: 7em;
+    color: rgb(25, 108, 141);
+}

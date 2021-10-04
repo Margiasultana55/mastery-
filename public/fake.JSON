@@ -21,7 +21,7 @@
         "description": "Learn the key tools and programming languages to bootstrap your career as a Cloud Developer. Get started with web development using HTML5, CSS3, JavaScript and GitHub.",
         "cost": 32,
         "time": "2–4 hours per week",
-        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+        "picture": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/875a25535f45.jpg"
     },
     {
         "key": "6159fcb9444dbeea4bb62790",
@@ -29,7 +29,7 @@
         "description": "Learn about control structures, one of the most powerful parts of programming. This course covers conditionals, loops, functions, and error handling, specifically in Python but with broader applicability to other languages as well.",
         "cost": 32,
         "time": "9–10 hours per week",
-        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+        "picture": "https://fos.cmb.ac.lk/blog/wp-content/uploads/2018/11/cover.jpg"
     },
     {
         "key": "6159fcb9c1ce1c1f9ae11810",
@@ -37,7 +37,7 @@
         "description": "Learn more complex ways of handling data, including files, lists, and dictionaries for building complex programs.",
         "cost": 26,
         "time": "9–10 hours per week",
-        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+        "picture": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Python-Iterators-and-Generators.jpg"
     },
     {
         "key": "6159fcb9e9313efa3fd8ab66",
@@ -45,7 +45,7 @@
         "description": "Learn the principles of programming for building large and extensible systems.",
         "cost": 23,
         "time": "6–8 hours per week",
-        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+        "picture": "https://www.educative.io/v2api/editorpage/4792707659595776/image/5909454286487552"
     },
     {
         "key": "6159fcb971d7b5d577397380",
@@ -53,7 +53,7 @@
         "description": "Learn the fundamentals of object-oriented programming in Java, as well as best practices of modern software development.",
         "cost": 33,
         "time": "6–8 hours per week",
-        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+        "picture": "https://softbin.com.bd/image/posts/3d7f6325d3eda8e98ba8632900623540.jpg"
     },
     {
         "key": "6159fcb9cbb86f4ce6a82a3d",
@@ -61,7 +61,7 @@
         "description": "Master foundational concepts in the C programming language such as logical statements and arrays.",
         "cost": 13,
         "time": "2–4 hours per week",
-        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+        "picture": "https://techworm.net/programming/wp-content/uploads/2018/07/c-programming-example-code.jpg"
     },
     {
         "key": "6159fcb9e8f6fc36ce1f7be8",
@@ -69,7 +69,7 @@
         "description": "Learn how to use professional tools and libraries to write and build C programs within the Linux operating system. Receive instant feedback on your code right within your browser.",
         "cost": 23,
         "time": "4–5 hours per week",
-        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+        "picture": "https://www.tun.com/courses/wp-content/uploads/2019/12/d82c88c9-281a-4f85-8ab1-d7dcffa934a0-150ba38b7c9f.small_.jpg"
     },
     {
         "key": "6159fcb902d20a5978dd0853",
@@ -77,6 +77,6 @@
         "description": "Explore fundamental programming with hands-on activities that help you build applications using Python.",
         "cost": 33,
         "time": "8–10 hours per week",
-        "picture": "https://images.unsplash.com/photo-1511376777868-611b54f68947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRozBXds7m34gNh1XwQJkLOtaaVlaH8ASA_55Zyx9ZwF4uEXww297echQkMuA7-wEgHAA&usqp=CAU"
     }
 ]
