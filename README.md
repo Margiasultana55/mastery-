@@ -6,4 +6,4 @@ this website provides so many courses.
 - On the home page, there are some feature courses and header sections you can see home, about, services, more info.On the services page you can see all courses.
 
 ## Live-link
-https://nostalgic-liskov-cfd71c.netlify.app/
+https://nostalgic-liskov-cfd71c.netlify.app/"# education-" 
